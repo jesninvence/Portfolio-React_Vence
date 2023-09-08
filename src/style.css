@@ -1,0 +1,228 @@
+*{
+  scroll-behavior: smooth;
+}
+
+.nav {
+    background-color: transparent !important;
+}
+
+.header {
+    color: white;
+}
+
+.navBar {
+    background: transparent;
+}
+
+.title {
+    color: blueviolet !important;
+    font-size: 45px !important;
+    font-weight: 700 !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.web {
+    color: blueviolet !important;
+}
+
+.wallPaper {
+    position: absolute;
+    top: 0;
+    z-index: -100;
+}
+
+.hello {
+    position: absolute;
+    top: 150px;
+    right: 150px;
+}
+
+.resume {
+    padding: 10px 30px;
+    border: none;
+    box-shadow: 0 0 0 1px blueviolet;
+    background-color: black;
+    color: blueviolet;
+    font-size: larger;
+}
+
+/***************************/
+
+.aboutMe {
+    width: 100%;
+    height: 80vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mySkill {
+    width: 100%;
+    height: 80vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/***************************/
+
+.resume:hover {
+    background-color: blueviolet;
+    color: white;
+    transition: 0.7s;
+    font-size: larger;
+}
+
+.skill .container h1 {
+    font-size: 40px;
+    color: white;
+    text-decoration: underline 5px blueviolet;
+}
+
+.quotes {
+    color: blueviolet;
+}
+
+.services .card {
+    padding: 25px 25px;
+    background-color: black;
+    box-shadow: 0 0 0 1px blueviolet;
+    color: blueviolet;
+}
+
+.services .card:hover {
+    background-color: blueviolet;
+    color: white;
+    transform: scale(1.01);
+    transition: 0.7s;
+}
+
+.contact .container p {
+    color: white;
+}
+
+/**********************************/
+
+.hero {
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+form {
+    width: 90%;
+    max-width: 600px;
+}
+
+.input-group {
+    margin-bottom: 30px;
+    position: relative;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px 10px;
+    outline: 0;
+    border: 1px solid blueviolet;
+    color: white;
+    background-color: transparent;
+    font-size: 15px;
+}
+
+label {
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 10px 20px;
+    color: white;
+    cursor: text;
+    transition: 0.2s;
+}
+
+.submit {
+    padding: 10px 0;
+    color: white;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid blueviolet;
+    width: 100%;
+    cursor: pointer;
+}
+
+.submit:hover {
+    background-color: blueviolet;
+    color: white;
+    transition: 0.7s;
+}
+
+input:focus~label,
+input:valid~label,
+textarea:focus~label,
+textarea:valid~label {
+    top: -35px;
+    font-size: 14px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.row .input-group {
+    flex-basis: 50%;
+}
+
+.input-group-2 {
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.input-group-2 label {
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 10px ;
+    color: white;
+    cursor: text;
+    transition: 0.2s;
+}
+
+.input-group-2 input, textarea {
+    width: 100%;
+    padding: 10px 10px;
+    outline: 0;
+    border: 1px solid blueviolet;
+    color: white;
+    background-color: transparent;
+    font-size: 15px;
+}
+
+.input-group-2 ::placeholder {
+    color: white;
+}
+
+
+/**************************************/
+
+.serVcs {
+    width: 100%;
+    height: 80vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/**************************************/
