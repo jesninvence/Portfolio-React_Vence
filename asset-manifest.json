@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React_Vence/static/css/main.8c90ecb4.css",
+    "main.js": "/Portfolio-React_Vence/static/js/main.a5774665.js",
+    "static/js/787.d5407150.chunk.js": "/Portfolio-React_Vence/static/js/787.d5407150.chunk.js",
+    "static/media/animation1.gif": "/Portfolio-React_Vence/static/media/animation1.431b42f81bbf1a51c1dd.gif",
+    "static/media/aboutme.gif": "/Portfolio-React_Vence/static/media/aboutme.e7a7b7fc47bbc1bbedf8.gif",
+    "static/media/wallpaper1.jpg": "/Portfolio-React_Vence/static/media/wallpaper1.4a1907e07132dc61e9f9.jpg",
+    "index.html": "/Portfolio-React_Vence/index.html",
+    "main.8c90ecb4.css.map": "/Portfolio-React_Vence/static/css/main.8c90ecb4.css.map",
+    "main.a5774665.js.map": "/Portfolio-React_Vence/static/js/main.a5774665.js.map",
+    "787.d5407150.chunk.js.map": "/Portfolio-React_Vence/static/js/787.d5407150.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c90ecb4.css",
+    "static/js/main.a5774665.js"
+  ]
+}
